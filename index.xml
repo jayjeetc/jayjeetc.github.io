@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Jayjeet Chakraborty</title>
+    <link>https://example.com/</link>
+    <description>Recent content in About on Jayjeet Chakraborty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>About Me  I am currently a Ph.D. student at the University of California, Santa Cruz in the Computer Science and Engineering department.
+I graduated from the National Institute of Technology, Durgapur in 2020 with a Bachelor&#39;s degree in Computer Science and Engineering.
+Research Interests  Storage systems Distributed systems Cloud computing  Contact  Email: jayjeetc@ucsc.edu LinkedIn: jayjeetc Github: JayjeetAtGithub Office: Room 375, Engineering 2, BSOE, UC Santa Cruz.   Taking a nap under a tree once helped a guy solve the universe.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://example.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/</guid>
+      <description> Email: foo@xyz.com Phone: +91-123123   Mailing Address  221B, Baker Street
+London
+United Kingdom
+  Social  Facebook Twitter Google+  </description>
+    </item>
+    
+  </channel>
+</rss>
